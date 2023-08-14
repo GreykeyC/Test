@@ -1,1 +1,1 @@
-console.("Hey World")
+const pair = "extrardinaire";
